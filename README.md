@@ -1,5 +1,5 @@
 # LAN_Connection
-This is a dynamic link library project that enables you to connect to another computer (or your own computer) inside the same LAN network via Socket support.
+This is a dynamic link library project that enables your software to connect to another computer (or your own computer) inside the same LAN network via Socket support.
 
 Here are some tips for using this:
 1) Listen: Use this code block
