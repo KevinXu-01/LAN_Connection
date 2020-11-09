@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\LAN_connection\bin\Debug\LAN_connection.dll
+E:\Visual Studio Projects\LAN_connection\bin\Debug\LAN_connection.pdb
+E:\Visual Studio Projects\LAN_connection\obj\Debug\LAN_connection.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\LAN_connection\obj\Debug\LAN_connection.dll
+E:\Visual Studio Projects\LAN_connection\obj\Debug\LAN_connection.pdb
+E:\Visual Studio Projects\LAN_connection\obj\Debug\LAN_connection.csprojAssemblyReference.cache

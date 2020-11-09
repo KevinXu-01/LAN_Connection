@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAN_connection", "LAN_connection.csproj", "{55ED3903-55CA-4813-AEA4-89083C499705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55ED3903-55CA-4813-AEA4-89083C499705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55ED3903-55CA-4813-AEA4-89083C499705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55ED3903-55CA-4813-AEA4-89083C499705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55ED3903-55CA-4813-AEA4-89083C499705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {137119DB-B71C-458D-8023-3F1731D13604}
+	EndGlobalSection
+EndGlobal
